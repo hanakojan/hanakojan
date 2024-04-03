@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanakojan
-- 👀 I’m interested in building my own indie game someday
-- 🌱 I’m currently studying for the AWS Cloud Solutions Associate Exam! and also learning to program different things!
-- 💞️ I’m looking to collaborate on any beginner projects:)
+- 👀 I’m interested in building my own indie game someday as a side hobby
+- 🌱 I’m currently working towards my B.S. in Cognitive Science with Specialization in Machine Learning and Neural Computation!
+- 💞️ I’m looking to collaborate on any beginner projects to get more hands on experience with ML/AI or data science:)
 - 📫 How to reach me: kvankirk@ucsd.edu
 
 <!---
